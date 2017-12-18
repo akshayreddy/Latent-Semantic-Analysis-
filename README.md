@@ -5,7 +5,7 @@ Sample Experiment: The concepts that I tried to extract during the Thanksgiving 
 
 Concept no.:
 Predicted terms:
-Inderence
+Inference
 
 Concept 1 :
 ( Happy, family, day, hope, great, weekend, dinner, break, holiday, time ) :
